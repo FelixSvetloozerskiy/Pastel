@@ -1,5 +1,5 @@
 {
-  "name": "Felix Svetloozerski",
+  "name": "Pastel-pink",
   "description": "A pastel pink theme,requested by FWOOGIE",
   "authors": [
     {
@@ -79,7 +79,7 @@
 "background": {
 "blur": 0.3,
 "url": "https://media.discordapp.net/attachments/1099365090169454622/1099454768352596058/AVAc5Qct.jpg?width=708&height=708",
-"alpha": 0.7
+"alpha": 1
 
 }
 }
