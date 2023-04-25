@@ -5,6 +5,81 @@
     {
       "name": "Felix Svetloozerski",
       "id": "354936587186077707"
-    },
+    }
   ],
-  
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#000000"
+  ],
+  "HEADER_SECONDARY": [
+      "#000000"
+  ],
+  "TEXT_NORMAL": [
+      "#000000"
+  ],
+  "TEXT_MUTED": [
+      "#000000"
+  ],
+  "TEXT_LINK": [
+      "#4d4d4d"
+  ],
+   "INTERACTIVE_NORMAL": [
+      "#000000"
+  ],
+  "INTERACTIVE_ACTIVE": [
+      "#4d4d4d"
+  ],
+  "BACKGROUND_PRIMARY": [
+      "#ff92ac"
+  ],
+  "BACKGROUND_SECONDARY": [
+      "#fbcbdc"
+  ],
+  "BACKGROUND_SECONDARY_ALT": [
+      "#ff92ac"
+  ],
+  "BACKGROUND_TERTIARY": [
+      "#ff92ac"
+  ],
+  "BACKGROUND_ACCENT": [
+      "#fbcbdc"
+  ],
+  "BACKGROUND_FLOATING": [
+      "#fbcbdc"
+  ],
+  "BACKGROUND_MOBILE_PRIMARY": [
+      "#ff92ac"
+  ],
+  "BACKGROUND_MOBILE_SECONDARY": [
+      "#ff92ac"
+  ],
+  "BACKGROUND_MESSAGE_HOVER": [
+      "#fbcbdc"
+  ],
+  "BACKGROUND_MODIFIER_HOVER": [
+      "#fbcbdc"
+  ],
+  "BACKGROUND_MODIFIER_ACTIVE": [
+      "#fbcbdc"
+  ],
+  "BACKGROUND_MODIFIER_SELECTED": [
+      "#fae6e7"
+  ],
+  "BACKGROUND_MODIFIER_ACCENT": [
+      "#fae6e7"
+  ],
+  "KEYBOARD": [
+      "#fbcbdc"
+]
+},
+"rawColors": {
+"PRIMARY_800": "#ff92ac",
+"PRIMARY_600": "#ff92ac"
+},
+"background": {
+"blur": 0.3,
+"url": "https://media.discordapp.net/attachments/1099365090169454622/1099454768352596058/AVAc5Qct.jpg?width=708&height=708",
+"alpha": 0.7
+
+}
+}
